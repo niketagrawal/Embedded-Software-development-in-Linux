@@ -1,6 +1,7 @@
-Repository for experiments on Raspberry Pi model B+ for practical insights into: 
+This repository contains embedded software written for Raspberry Pi as part of the course TI2726-C Operating Systems lab at TU Delft to get practical insights into the following:
 
--Multithread programming
--I/O
--Thread synchronization
--Memory, registers and Kernel
+- Embedded Linux
+- Multithread programming
+- Thread synchronization and safety
+- Kernel module implementation
+- Character device driver implementation
