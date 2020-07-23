@@ -1,4 +1,6 @@
-This repository contains embedded software written for Raspberry Pi as part of the course TI2726-C Operating Systems lab at TU Delft to get practical insights into the following:
+Software package for TI2726-C Operating Systems.
+
+This repository contains embedded software written for Raspberry Pi to get practical insights into the following:
 
 - Embedded Linux
 - Multithread programming
